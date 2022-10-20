@@ -13,8 +13,24 @@ body {
 
 .pp:hover {
   cursor: pointer;
+  font-variant: small-caps;
+
+}
+
+button {
+  font-family: 'Courier New', Courier, monospace;
+
 }
 
 #balls:hover {
   cursor: pointer;
+}
+
+#answ {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+  font-family: 'Courier New', Courier, monospace;
+
 }
